@@ -1,4 +1,4 @@
-module go.mongodb.org/atlas
+module gh.internal.shutterfly.com/shutterfly/go-client-mongodb-atlas
 
 go 1.14
 
